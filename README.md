@@ -17,3 +17,7 @@ This project explores the Caesar cipher, a substitution cipher where each letter
 1. Clone the repository.
 2. Run the Caesar cipher script: `python caesar_cipher.py`.
 3. Perform frequency analysis: `python frequency_analysis.py`.
+
+## Results
+- Frequency analysis visualization.
+- Successful decryption of ciphertext using brute-force and frequency analysis.
